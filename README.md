@@ -14,7 +14,7 @@ The **100 Days of Dares** project is a web application that generates a new dare
 - JavaScript
 
 ## Usage
-This project serves as a learning tool to understand how backend and frontend work together. 
+This project serves as a __learning tool__ to understand how ```backend and frontend work together```.
 
 To run the application locally, follow these steps:
 
