@@ -1,3 +1,4 @@
+// used AI for JS (to learn frontend)
 let day = 1;
 
 document.addEventListener("DOMContentLoaded", getDare);
