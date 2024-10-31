@@ -1,7 +1,7 @@
 # 100 Days of Dares
 
 ## Description
-The **100 Days of Dares** project is a web application that generates a new dare each day for 100 days. Users can complete these dares and leave comments on their experiences. At the end of the 100 days, users can view a summary of their comments as a memorable experience.
+The **100 Days of Dares** project is a web application that generates a new dare each day for 100 days. Users can complete these dares and leave comments on their experiences. At the end of the 100 days, users can view a summary of their comments as a memorable experience (__Note: This page will continue to be updated as I enhance my skills and add more features__).
 
 ## Features
 - Daily dare generation for 100 days.
